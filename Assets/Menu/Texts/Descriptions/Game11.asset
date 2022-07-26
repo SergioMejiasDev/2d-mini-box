@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03b7bbf61d22464fb2448bb6c59e5ed, type: 3}
+  m_Name: Game11
+  m_EditorClassIdentifier: 
+  english: 'Use the "W" key to accelerate and "S" to reverse. With "A" and "D" you
+    can turn the car.
+
+
+    You can try to beat your own time record in one lap.'
+  spanish: "Utiliza la tecla \"W\" para acelerar y \"S\" para dar marcha atr\xE1s.
+    Con \"A\" y \"D\" puedes girar el coche.\r\n\r\nPuedes intentar batir tu propio
+    record de tiempo en una vuelta.\r"

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03b7bbf61d22464fb2448bb6c59e5ed, type: 3}
+  m_Name: Game06
+  m_EditorClassIdentifier: 
+  english: "Use The \"A\" And \"D\" Keys To Move The Pieces From Left To Right,\r
+    The \"W\" Key To Rotate Them, And The \"S\" Key To Descend It Faster.\r\n\nGroup\r
+    As Much As Possible Pieces By Forming Lines Before They Reach The Top Of The\r
+    Screen."
+  spanish: "Utiliza las teclas \"A\" y \"D\" para mover las piezas de izquierda\r
+    a derecha, la tecla \"W\" para rotarlas y la tecla \"S\" para descender m\xE1s
+    r\xE1pido.\n\nAgrupa tantas piezas como sea posible formando l\xEDneas\r para
+    eliminarlas antes de que lleguen a la parte superior de la pantalla."

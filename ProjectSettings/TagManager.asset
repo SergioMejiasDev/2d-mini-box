@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Scenary
+  - Destroyer
+  - Base
+  - Game3/UFO
+  - Game3/BulletPlayer
+  - Game3/BulletEnemy
+  - Game3/Limits
+  - Game3/Enemy
+  - Game3/Player
+  - Game2/Ball
+  - Game2/Wall
+  - Game1/Enemy
+  - Game1/Coin
+  - Game1/Walls
+  - Game1/Pipe
+  - Game1/Missile
+  - Game4/Dot
+  - Game4/Maze
+  - Game4/BigDot
+  - Game4/Fruit
+  - Game5/Food
+  - Game5/Tail
+  - Game5/Border
+  - Game5/RedFood
+  - Game6/Spawner
+  - Game6/Tetromino
+  - Menu/LanguageManager
+  - Game7/JumpArea
+  - Game7/Barrel
+  - Game7/Mallet
+  - Game7/Flame
+  - Game7/Ladders
+  - Game7/MalletHit
+  - Game7/Walls
+  - Game8/Destructor
+  - Game8/Water
+  - Game8/Car1
+  - Game8/Car2
+  - Game8/Car3
+  - Game8/Car4
+  - Game8/Car5
+  - Game8/Trunk1
+  - Game8/Trunk2
+  - Game8/Trunk3
+  - Game8/Turtle1
+  - Game8/Turtle2
+  - Game8/Turtle3
+  - Game8/Turtle4
+  - Game8/Crocodile
+  - Game8/DeathZone
+  - Bullet
+  - Menu/NetworkManager
+  - Game9/Destructor
+  - Game9/Cloud
+  - Game9/Bird
+  - Game9/Cactus1
+  - Game9/Cactus2
+  - Game9/Cactus3
+  - Game9/Cactus4
+  - Game9/Cactus5
+  - Game9/Cactus6
+  - Game10/RedBall
+  - Game10/Destructor
+  - Game10/PurpleBall
+  - Game10/GreenBall
+  - Game10/Disc
+  - Menu/SaveManager
+  - Game12/Bubble
+  - Game12/Destructor
+  - Game12/Spike1
+  - Game12/Spike2
+  - Game12/Spike3
+  - Game12/Spike4
+  - Game12/BubbleColor
+  - Game12/Magnet
+  - Game12/Reductive
+  - Game12/Spike5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - PostProcessing
+  - Mask1
+  - Mask2
+  - Mask3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
